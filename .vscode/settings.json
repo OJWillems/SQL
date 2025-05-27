@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Views DB",
+            "database": "\"C:\\Users\\Olivier Willems\\Documents\\Work\\Learning\\SQL\\0 - Querying\\Problem Set\\Views\\views.db\""
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

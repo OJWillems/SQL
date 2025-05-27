@@ -1,0 +1,1 @@
+SELECT "season", "title", "episode_in_season", "air_date" FROM "episodes" WHERE "episode_in_season" > 10 AND "air_date" < '2019-12-31';
